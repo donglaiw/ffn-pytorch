@@ -1,0 +1,4 @@
+conda install python=3.6 numpy scipy h5py
+conda install -c conda-forge scikit-image
+conda install -c anaconda protobuf absl-py
+
